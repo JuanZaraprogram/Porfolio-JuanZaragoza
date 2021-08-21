@@ -1,0 +1,107 @@
+.carruselImg {
+    width: 100%;
+    
+    
+}
+
+.logoNav {
+    margin-left: 630px;
+    display: flex;
+}
+
+
+header {
+    background-color: transparent !important
+}
+
+nav {
+    background-color: transparent !important
+}
+
+.divIcon {
+    background-color: grey;
+    display: flex;
+}
+
+.camaraImg {
+    
+    
+    left: 250px;
+    position: relative;
+    
+}
+
+.videoImg {
+    
+    
+    left: -190px;
+    position: relative;
+
+}
+
+.webImg {
+    top: -440px ;
+    left: 290px;
+    position: relative;
+
+}
+
+.camaraTxt {
+    top: 80px;
+    left: -140px;
+    position: relative;
+
+}
+
+.videoTxt {
+    top: -370px;
+    left: 370px;
+    position: relative;
+
+}
+
+
+.webTxt {
+    top: -820px;
+    left: 770px;
+    position: relative;
+
+}
+
+.contenedor {
+    width: 100%;
+    height: 95%;
+    margin: 0;
+
+}
+
+.formularioIni{
+    position: relative;
+    top: -900px;
+}
+
+.botonCont {
+    position: relative;
+    top: -900px;
+    left: 630px;
+}
+
+
+.logoNos {
+    margin-left: 630px;
+    display: flex;
+}
+
+article {
+    position: relative;
+    top: 200px;
+}
+
+.footerIni {
+    background-color: rgb(165, 165, 165);
+    position: relative;
+    top: -600px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+}
